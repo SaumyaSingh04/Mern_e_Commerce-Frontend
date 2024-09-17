@@ -1,0 +1,18 @@
+
+body{
+  background-color: black;
+  color: white;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
+
+td{
+  vertical-align:middle;
+  cursor: pointer;
+}
+
+
+
+
